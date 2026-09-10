@@ -2,6 +2,16 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 10 de septiembre de 2026 — Recetas, menú de la semana y la compra que se llena sola
+
+- Compra tiene ahora tres pestañas: Lista, Menú y Recetas.
+- RECETAS. Apunta tus recetas con sus ingredientes: cada uno con su cantidad —como la escribas: «500 g», «2», «1 lata»— y el pasillo del súper en el que está.
+- MENÚ. Pon lo que vais a comer y cenar cada día de la semana. Puedes elegir una receta o escribirlo a mano para los días de «sobras» o «cenamos fuera».
+- Y EL BOTÓN. Desde el menú, «A la compra» junta los ingredientes de las recetas de esa semana y te enseña la lista antes de añadir nada: agrupada por pasillo, con lo repetido en una sola línea —dos recetas con cebolla salen como «1 + 2»— y todo marcado. Desmarcas lo que ya tengas en casa y listo.
+- Como te lo enseña antes, pulsarlo dos veces sin querer no duplica nada: lo ves venir.
+- El menú de la semana también sale en el calendario, con su botón para esconderlo. Tocar una comida te lleva al menú, no al editor de eventos.
+- Lo que no se cocina de receta no aporta ingredientes: «cenamos fuera» no te añade nada a la compra.
+
 ## 10 de septiembre de 2026 — Un calendario puede anular a otro
 
 - Ahora puedes decir que un grupo no aparezca los días que haya un festivo, unas vacaciones o cualquier evento de todo el día en otro calendario. Si tienes los festivos suscritos, tu jornada de trabajo deja de salir el día de Navidad, sin que tengas que borrarla ni tocar la repetición.
