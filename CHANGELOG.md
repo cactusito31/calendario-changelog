@@ -2,6 +2,67 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 11 de septiembre de 2026 — Los viajes, en Personal → Viajes
+
+- Personal tiene otra pestaña, «Viajes». Pones a dónde vas y qué días, y ahí se junta todo lo del viaje.
+- Arriba, cuánto queda: «faltan 12 días», «día 2 de 5», «hace 3 meses».
+- Los días del viaje con lo que tengas en el calendario esos días —el vuelo, la reserva, la entrada—, agrupado por día. Tocas uno y te lleva a su fecha.
+- La maleta se marca ahí mismo. Es tu lista de siempre, la de «Notas y listas», no una copia: lo que marques aquí está marcado allí.
+- Al crear el viaje te ofrece crear la lista de la maleta con su nombre, de un toque.
+- Lo que va costando se suma por CATEGORÍA, no por fechas. Parece un detalle y es lo que hace que el número sirva: por fechas te metería dentro la hipoteca y el gimnasio de esos días, y dejaría fuera el billete que pagaste tres meses antes.
+- Si el viaje no tiene categoría, no se enseña ningún número. Mejor eso que uno que miente.
+- Un viaje no se queda con nada de lo tuyo: si lo borras, la lista de la maleta y los gastos siguen donde estaban.
+- De regalo: en las listas con casilla ya no sale una barra de desplazamiento horizontal de nueve píxeles que no llevaba a ninguna parte.
+
+## 11 de septiembre de 2026 — La medicación, en Personal → Salud
+
+- Personal tiene una pestaña nueva, «Salud». Apuntas qué tomas, cuánto y a qué horas, y arriba te sale lo de cada día.
+- Tocas la fila y queda marcada. El contador de arriba dice cuántas te quedan hoy.
+- Si lo pides, llega una notificación a cada hora. Y si ya la has marcado, no te avisa: el recordatorio desaparece cuando deja de hacer falta.
+- El aviso caduca en una hora. Es a propósito: que te digan a las siete de la tarde que te tomes la de las ocho de la mañana no ayuda, y si ya te la habías tomado puede liarte.
+- Son horas fijas y no «cada 8 horas». Lo segundo se mueve cada día según cuándo tomaste la primera, y entonces el aviso acabaría dependiendo de que te acuerdes de apuntar.
+- La cantidad se escribe como quieras: «1 pastilla», «10 ml», «medio sobre». Y puedes poner una fecha de fin —un antibiótico se acaba— o dejarla vacía.
+- Las que se te pasan se quedan a la vista en gris, no en rojo. Saber que te la saltaste es información, no una regañina.
+- Abajo, lo que ya medías —peso, ánimo, sueño— reunido en el mismo sitio. Son las mismas métricas de Seguimiento, no una copia.
+- Lo que esto NO hace, y es a propósito: no comprueba interacciones, no calcula dosis, no avisa de peligros y no sabe si te la has tomado — sabe si has tocado el botón. Para lo demás, tu médico o tu farmacia.
+- No se comparte con nadie, ni con una casilla. Sí se sincroniza entre tus dispositivos y sí se lo lleva la descarga de tus datos.
+
+## 10 de septiembre de 2026 — Las cuentas con la otra persona
+
+- Se puede compartir un libro de cuentas, además del calendario y la compra: Cuenta → Compartir, «Las cuentas».
+- «Esto lo pagué yo, la mitad es tuya», y arriba el saldo con nombre: «Marta te debe 32,50 €». Los dos podéis apuntar.
+- De cada gasto eliges cuánto le toca al otro: la mitad, todo —lo pagaste tú pero era suyo— o la cantidad que digas, para la cena en la que uno pidió marisco.
+- El botón «Liquidar» precarga un pago por el saldo exacto y lo deja en cero. No borra nada: el pago se queda apuntado, para poder mirar atrás y entender de dónde salía el número.
+- La pestaña «Compartido» de Finanzas sólo aparece si hay cuentas compartidas.
+- Esto NO toca tus gastos personales, ni con una casilla. Un apunte compartido es lo que os debéis, no dinero que salió de tu cuenta: si pagas 40 y te devuelven 20, lo que te costó son 20, y eso no se sabe hasta que se salda.
+- OJO CON DEJAR DE COMPARTIRLO: a diferencia del calendario y la compra, retirar las cuentas SÍ borra el libro y el saldo, para los dos. Se avisa con el saldo delante antes de hacerlo.
+
+## 10 de septiembre de 2026 — Las fechas señaladas ya avisan ANTES
+
+- Al crear o editar una fecha señalada hay una fila nueva, «Avisar antes», con seis plazos: 3 meses, 1 mes, 2 semanas, 1 semana, 1 día y el día. Puedes marcar los que quieras.
+- Llega una notificación a las 9 de la mañana de cada uno. «ITV del coche — faltan 30 días».
+- Es lo que faltaba para que la ITV, el seguro, el pasaporte o la garantía sirvan de algo: enterarte el mismo día de que vence hoy no es un aviso, es un problema.
+- El de 3 meses está por el pasaporte y el carnet, que se renuevan con meses de antelación. Y el de «el día», por los cumpleaños.
+- En los aniversarios avisa cada año, en su vuelta. En las cuentas atrás, una vez; cuando la fecha pasa, deja de avisar y la fecha se queda en la lista como memoria, igual que hasta ahora.
+- Las fechas que tengan algún aviso lo dicen con una campanita, tanto en la lista como en la pantalla de inicio.
+- Si este dispositivo no tiene los avisos activados, el formulario te lo dice en vez de dejarte marcar plazos que nunca llegarían.
+- Lo que ya tenías guardado no cambia: ninguna fecha empieza a avisar sola. Si quieres avisos, se marcan.
+
+## 10 de septiembre de 2026 — El ciclo, con estadística de verdad
+
+- Personal tiene una cuarta pestaña, «Ciclo». Apuntas el primer día de tu regla —y el último cuando termina— y ya está.
+- Si tienes un registro en papel de los meses anteriores, mételos con «Anterior» y empiezas con el estudio hecho en vez de esperar medio año. Quedan marcados como apuntados hacia atrás, porque una fecha recordada se redondea y eso hace que tus ciclos parezcan más regulares de lo que son.
+- EL PORTERO. Con menos de tres ciclos completos no te dice nada, y te dice cuántos llevas. Una predicción con dos ciclos no es una predicción con poca confianza: es un número inventado con pinta de dato.
+- LA PREDICCIÓN ES UN INTERVALO, nunca una fecha: «entre el 2 y el 6». Es lo que dicen tus datos. Y el intervalo se estrecha o se ensancha según lo regular que seas, sin que nadie te lo diga con palabras: el propio círculo lo dibuja.
+- EL CÍRCULO. Cuatro sectores con el ancho que sale de TUS ciclos, no de un dibujo de libro. El de ovulación es tan ancho como la incertidumbre que hay, y el folicular es el que se estira: es lo que de verdad varía de un mes a otro.
+- EL ESTUDIO. Cuánto dura tu ciclo, entre qué valores se mueve lo habitual en ti y cuánto te dura la regla. Todo con la mediana y no con la media, para que un mes raro no arrastre la lectura.
+- SÍNTOMAS POR DÍA DE CICLO. Al registrar el primero se te crean cuatro cosas que apuntar —sangrado, dolor, ánimo y energía— y salen en Seguimiento como cualquier otra. Con datos de tres ciclos o más, la pestaña te enseña en qué día del ciclo se te concentra cada cosa. Eso nadie lo sabe de sí mismo sin medirlo.
+- Si ya tenías una métrica con ese nombre no se duplica: es tuya, con su color y su historial.
+- NO SALE A NINGUNA PARTE MIENTRAS NO LO MANDES TÚ. Dos interruptores, juntos y los dos apagados: «Ver en el inicio» pone el círculo en la pantalla de inicio, y «Ver en el calendario» pinta la banda de la próxima regla. Sin tocarlos, el ciclo sólo existe en su pestaña.
+- Y no se comparte. No entra en lo que compartes con otra persona, ni con una casilla ni sin ella. Sí se sincroniza entre TUS dispositivos, y sí se lo lleva la descarga de tus datos.
+- Lo que esto NO hace, y es a propósito: no habla de días fértiles, ni de días seguros, ni de probabilidad de embarazo. No es que no se enseñe, es que no se calcula. No sirve como anticonceptivo.
+- Tampoco diagnostica. Si tus números cruzan un umbral clínico de los que se usan habitualmente, te lo dice con el número delante y con la frase «merece la pena comentarlo en una revisión» — nunca con una causa.
+
 ## 10 de septiembre de 2026 — Recetas, menú de la semana y la compra que se llena sola
 
 - Compra tiene ahora tres pestañas: Lista, Menú y Recetas.
