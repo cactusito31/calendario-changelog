@@ -2,6 +2,133 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 14 de septiembre de 2026 — Tu color, en todos los sitios donde se elige uno
+
+- Hasta ahora casi todos los selectores ofrecían sólo cinco colores fijos: sólo Grupos dejaba elegir el tuyo. Ahora se puede en los doce —viajes, fechas, suscripciones, objetivos, ahorro, hábitos, notas, métricas, pautas, calendarios suscritos, eventos y grupos—.
+- Si eliges un color que no está entre los cinco, la pastilla del selector se pinta con él, para que se vea que ha cogido.
+- No lleva transparencia, y es a propósito: la app calcula sola el tinte de las tarjetas y si el texto encima va en blanco o en negro. Con un color semitransparente esa cuenta deja de salir y el texto puede quedar ilegible.
+
+## 14 de septiembre de 2026 — El tiempo ocupa ya la fila entera
+
+- En escritorio, el widget del tiempo se quedaba en una columna estrecha con media fila vacía a su derecha. Ahora ocupa el ancho completo y los diez días se reparten por él.
+- Era una regla que faltaba: el tamaño «línea» siempre significó «una fila fina», pero esa regla nunca llegó a escribirse y el widget caía en una celda normal.
+- En el móvil no cambia nada: sigue ocupando su línea y los días se deslizan.
+
+## 13 de septiembre de 2026 — El tiempo, de tres días a semana y media
+
+- El widget del tiempo enseñaba hoy y dos días más. Ahora enseña diez, que es lo que se mira de verdad: no «qué hará pasado mañana» sino «qué me llevo el finde».
+- La tira de días se desliza en horizontal dentro del propio widget, así que la portada no cambia de forma ni se hace más alta.
+- El servidor pide dieciséis días aunque se pinten diez: así, cambiar cuántos se ven es un despliegue normal y no hay que volver a tocar el servicio.
+
+## 13 de septiembre de 2026 — Los eventos pueden llevar tu color
+
+- Hasta ahora el color de un evento era siempre el de su grupo. Si querías que algo destacara, tenías que crearte un grupo entero para ello.
+- Ahora, en el formulario del evento, puedes elegirle color de la paleta. Y hay una opción «El del grupo» para quitárselo y que vuelva a heredarlo.
+- Se ve en las tres vistas —mes, semana y agenda— desde el primer día. El color del grupo sigue siendo lo normal; el propio es la excepción que pides tú.
+
+## 13 de septiembre de 2026 — Tus fechas señaladas se ven en el calendario
+
+- Las cuentas atrás y los aniversarios de Personal → Fechas se pintan ya en el calendario, de día completo y en su color.
+- El aniversario vuelve CADA AÑO, con la edad del año que estés mirando: en 2027 dice «cumple 37», no la de hoy.
+- Tocar una te lleva a Personal → Fechas, y hay un chip «🎂 Fechas» para esconderlas, igual que el de los cobros.
+- Un cumpleaños NO cuenta como que estás ocupado: el menú sigue sin marcarte la comida «fuera de casa» por eso.
+
+## 13 de septiembre de 2026 — La maleta se propone sola
+
+- En un viaje, «Proponer maleta» te monta la lista: lo de siempre (documentación, cargador, medicación), lo que escala con los días, y lo que sale de tu propia agenda.
+- Cada cosa dice POR QUÉ está ahí: «5 camisetas — 5 días», «Ropa formal — el martes tienes “Boda de Marta”». Una lista que aparece sin explicarse no se puede revisar.
+- No rellena nada sola: propone, tú confirmas. Y pulsarlo dos veces no te duplica la maleta.
+
+## 13 de septiembre de 2026 — El gasto se explica solo
+
+- Al apuntar un gasto, la app te propone la categoría cuando tiene un motivo que puede nombrar — y lo enseña: «estabas en “Lisboa” esos días», «“Netflix” se cobra ese día».
+- Para el cobro de una suscripción hacen falta DOS señales, la fecha y el importe. Sólo por la fecha, cualquier gasto del día 5 se comería la sugerencia.
+- Nunca rellena el campo sola, y si no tiene nada que decir no enseña nada: ni hueco ni «sin sugerencias».
+
+## 13 de septiembre de 2026 — Adjunta el recibo a un gasto
+
+- Cada movimiento puede llevar la foto del recibo o el PDF de la factura, con los mismos tres estados que las reservas de los viajes.
+- En la lista del mes, los que llevan algo adjunto se marcan con un clip — esté o no el fichero en este dispositivo.
+- Sólo en tus gastos, no en el libro compartido: como los ficheros no viajan, el ticket le saldría a la otra persona como «está en el otro dispositivo», justo a quien se lo querías enseñar.
+
+## 13 de septiembre de 2026 — El simulador deja de deshacerse solo
+
+- Los ajustes del simulador de Finanzas se guardaban como una sola ficha: tocarlo en el móvil y en el portátil perdía lo de uno de los dos.
+- Y había algo peor: ABRIR la pestaña a mirar ya lo reescribía, así que mirarlo en un sitio le ganaba a lo que habías configurado de verdad en el otro.
+- Ahora sólo se guarda lo que de verdad cambia, y cada campo recuerda cuándo lo tocaste.
+
+## 13 de septiembre de 2026 — Adjunta la reserva a tu viaje
+
+- En Personal → Viajes, cada viaje tiene ya «Reservas y billetes»: el PDF de la reserva, el billete o la foto del bono. Hasta 10 MB cada uno.
+- El fichero se queda en el dispositivo donde lo añades y NO se sincroniza, a propósito: un PDF viajando en cada guardado se comería el espacio de toda tu cuenta y acabaría rompiendo la sincronización de todo lo demás.
+- Pero en los otros dispositivos SÍ se ve que existe, con su nombre y su tamaño, y te dice dónde está. Un adjunto que no aparece se descubre el día del aeropuerto; uno que dice «está en el portátil» lo sabes antes de salir.
+- Al borrar el viaje se van también sus adjuntos, y los megas con ellos.
+
+## 13 de septiembre de 2026 — Una receta borrada deja de contar y deja de comprarse
+
+- Si borrabas una receta que tenías puesta en el menú, sus ingredientes seguían yendo a la lista de la compra. Te llevabas al supermercado lo de un plato que ya no existe.
+- Y el coste de la semana se quedaba en «al menos X · 1 plato sin precio» para siempre, sin decirte cuál ni por qué.
+- Ahora esa comida se comporta como una escrita a mano: conserva el nombre —el histórico sigue diciendo qué comiste—, no suma al coste y no aporta ingredientes. Y el hueco lo DICE, en vez de que el número cambie solo.
+
+## 13 de septiembre de 2026 — Marca a mano si comes fuera
+
+- El menú deduce por tu calendario si un turno lo haces en casa, pero no siempre acierta: el jueves que cenas con los suegros no lo pone nadie en la agenda.
+- Ahora puedes forzarlo tú tocando la marca del turno. Lo forzado lleva un punto al lado para que se distinga de lo deducido.
+- Forzar «en casa» no significa que tengas tiempo de sobra: si venías justo, sigues justo. Son dos cosas distintas.
+
+## 13 de septiembre de 2026 — Tus ajustes dejan de pisarse entre dispositivos
+
+- Si cambiabas la ciudad del tiempo en el portátil y escondías una pestaña en el móvil, uno de los dos cambios se perdía en silencio. No había error: un ajuste sencillamente «se deshacía solo».
+- Los ajustes se guardaban como una sola ficha y ganaba el último en tocarla, entera. Ahora se recuerda cuándo tocaste CADA cosa, y se juntan las dos.
+- También se arregló compartir el libro de cuentas, que fallaba diciendo que no se podían compartir permisos de escritura. No había funcionado nunca.
+
+## 13 de septiembre de 2026 — El menú ve tu calendario ENTERO
+
+- Las marcas de «justo» y «fuera de casa» del menú sólo miraban tus eventos propios. Ahora miran también los calendarios que tengas suscritos: si el del trabajo entra por ahí, antes no veías ni una marca y la función parecía rota.
+- Y respetan tus reglas de anulación: si un festivo anula tu jornada, ese día recuperas la comida en casa y sus ingredientes vuelven a la compra. Vale para los dos modos, tachada o escondida.
+- Esconder un calendario suscrito NO te deja libre: esconderlo es lo que miras, estar en el trabajo es un hecho. Si no fuera así, esconder el del curro te compraría para cinco comidas que no vas a hacer.
+- Lo que te comparte otra persona NO cuenta: su cena de trabajo es suya, tú sigues en casa. Ni los cobros de tus suscripciones, ni el ciclo, ni —claro— las propias comidas del menú.
+
+## 11 de septiembre de 2026 — Hazte tu propio tema con tres colores
+
+- Además de las siete paletas que había, ahora hay «El mío»: eliges fondo, tinta y acento, y el resto —las tarjetas, los bordes, los tres niveles de gris del texto— se calcula solo. Está en Cuenta → Qué ves → Tema y modo.
+- Tres colores y no dieciocho a propósito: con dieciocho es cuestión de tiempo acabar con un texto casi invisible y no saber cuál de los dieciocho lo causó.
+- No puedes hacerte un tema que no se lea. Si tu tinta no contrasta lo suficiente con tu fondo, se ajusta lo justo para que se lea Y TE LO DICE, con el número. Ni se rechaza tu color ni se arregla a escondidas.
+- Y si eliges un gris medio —donde matemáticamente NO existe ningún texto que contraste con el fondo y con las tarjetas a la vez— se mueve un poco tu fondo, conservando el tono, y también se te dice.
+- El modo oscuro sale solo conservando el TONO: si tu fondo claro es un crema cálido, tu oscuro es un casi-negro cálido, no un gris cualquiera. No hay que configurar el tema dos veces.
+- Tu tema se sincroniza entre tus dispositivos, y es de tu perfil: el de la otra persona es otro.
+- Los cinco colores de las gráficas y los grupos NO se tocan: un solo color no da cinco rellenos que se distingan entre sí, también para quien no distingue bien los colores.
+- Arreglado de paso: las casillas de «Qué ves» para elegir las pestañas de Personal no se encendían al activarlas. Se guardaba bien y no se veía.
+
+## 11 de septiembre de 2026 — El menú de la semana mira tu calendario
+
+- En el menú de la semana, cada comida sale marcada según lo que tengas ese día: «justo» si llegas con poco margen, «fuera de casa» si tienes algo encima de la hora de comer o estás de viaje.
+- Los días que vienes justo, al elegir receta salen primero las cortas. No se esconde ninguna: se ordenan.
+- Una receta puede guardar cuánto tarda y lo que sale por vez. Los dos son opcionales.
+- Y lo que de verdad ahorra: al pasar el menú a la compra, lo que era sólo para una comida que NO vas a hacer en casa llega desmarcado, con su motivo. No desaparece — volver a marcarlo es un toque.
+- Ojo a esto, que es la parte delicada: si un ingrediente hace falta para una cena que no vas a hacer Y TAMBIÉN para una que sí, llega marcado. Faltaría si no.
+- Abajo, lo que cuesta cocinar la semana. Y si a algún plato le falta el precio NO se enseña un total, sino «al menos 19 € · 2 platos sin precio»: un total que se deja cosas fuera en silencio es peor que no dar número.
+- Puedes decir cuál de tus presupuestos es el de la comida y ver, al lado, lo que llevas gastado del mes contra tu tope. Son dos números verdaderos: no se inventa ningún «tope semanal» dividiendo el del mes.
+- Y una limitación dicha de frente: eso mide lo que cuesta COCINAR, no la compra entera. La leche, el café y el detergente no son de ninguna receta.
+- Un evento de todo el día —un cumpleaños, un vencimiento— no te deja sin cenar en casa y no marca nada.
+
+## 11 de septiembre de 2026 — Los ajustes, ordenados
+
+- La hoja de Cuenta se había convertido en once secciones seguidas que había que recorrer enteras para encontrar nada. Ahora al abrirla ves cuatro filas: Perfil y cuenta, Qué ves, Compartir y Tus datos. Tocas una y entras.
+- «Qué ves» junta lo que antes estaba disperso: el tema claro/oscuro, los paneles de la pantalla de inicio, las pestañas de Personal y la ciudad del tiempo.
+- «Salir de esta cuenta» ya no aparece debajo de cualquier pantalla: está sólo en la primera, que es donde tiene sentido.
+
+## 11 de septiembre de 2026 — Personal: tú eliges qué pestañas ves, y en qué orden
+
+- Personal tenía ya seis pestañas y en el móvil la última quedaba cortada. Ahora eliges tú cuáles quieres y en qué orden: Cuenta → «Pestañas de Personal», justo debajo de los paneles de la pantalla de inicio.
+- Pon delante lo que uses a diario. Es lo que de verdad ahorra toques: si vas casi siempre a lo mismo, lo tienes el primero.
+- Es de CADA PERFIL. Si compartís el dispositivo, uno puede quitarse el Ciclo y Salud de en medio sin cambiarle la barra al otro.
+- La última no se puede quitar, para que Personal no se quede en blanco sin forma de volver.
+- Y si escondes una que habías movido de sitio, al volver a enseñarla recupera su posición. Una preferencia no se pierde por probar.
+- Los paneles de la pantalla de inicio ahora te llevan a SU sitio, no a la puerta: el de notas abre «Notas y listas», el de seguimiento abre «Seguimiento», y el del presupuesto abre Finanzas → Gastos, que es donde se editan los topes.
+- Arreglado un callejón sin salida: el panel del tiempo ofrecía «Elige tu ciudad» y te dejaba en una pantalla donde no había ningún buscador de ciudad. Ahora abre donde de verdad se elige.
+- Esconder una pestaña no esconde su panel de la pantalla de inicio, y ese panel sigue llevándote a ella. Son dos decisiones distintas.
+
 ## 11 de septiembre de 2026 — Los viajes, en Personal → Viajes
 
 - Personal tiene otra pestaña, «Viajes». Pones a dónde vas y qué días, y ahí se junta todo lo del viaje.
