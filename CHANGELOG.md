@@ -2,6 +2,107 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 28 de septiembre de 2026 — Iconos en los rótulos y en los avisos
+
+- Con el tema propio puesto, los rótulos de los paneles llevan ahora un icono pequeño: uno distinto en «El tiempo», «Fechas señaladas», «Hábitos» y «Seguimiento».
+- Y el aviso meteorológico enseña un icono de su fenómeno: tormenta, calor, frío o viento, según lo que avise AEMET.
+- En «Te queda este mes» sale una moneda: verde mientras te quede, roja si te has pasado. Los importes siguen en euros — el símbolo no cambia.
+- Con cualquier otro tema no se pinta ninguno: no es que se oculten, es que no llegan a existir.
+
+## 28 de septiembre de 2026 — Un icono para cada hábito y cada grupo
+
+- Los hábitos y los grupos pueden llevar ahora un icono de una biblioteca de 229, buscándolo por nombre. El del hábito sale en «Gestionar»; el del grupo, en su ficha.
+- Son tuyos, no del tema: los eliges tú y se ven con los nueve temas, no sólo con el propio.
+- En los grupos, el emoji no desaparece: sigue haciendo falta para los desplegables de eventos y turnos, donde un icono de imagen no cabe. El emoji es el respaldo y el icono sale donde sí cabe.
+- Pesan 289 KB las 229 y no se descargan al instalar: sólo se piden los que uses.
+
+## 27 de septiembre de 2026 — Avisos meteorológicos en el widget del tiempo
+
+- El widget del tiempo enseña ahora los avisos oficiales de AEMET: amarillo, naranja o rojo, con el fenómeno, la zona y cuánto falta para que empiece o acabe.
+- Sin aviso no enseña nada. Un indicador que dice «todo bien» el 95 % de los días deja de mirarse, y el día que cambia tampoco se mira.
+- Hay que elegir la zona una vez, en Cuenta → Qué ves, justo debajo de la ciudad. Los avisos se publican por zonas —«Ibérica zaragozana»— y no hay forma de deducir la tuya de la ciudad, así que se busca escribiendo, como la ciudad.
+- El nivel se dice también con palabras, no sólo con el color: «Aviso naranja». Distinguir un amarillo de un naranja por el color a solas no está al alcance de todo el mundo.
+- De momento sólo España. Y ojo: esto es una pantalla que miras, no una alarma — un aviso rojo de madrugada lo verás al abrir la aplicación.
+
+## 25 de septiembre de 2026 — Las ilustraciones, también en Semana y en Agenda
+
+- La vista de Semana enseña ahora una ilustración en los días sin nada previsto, en sus dos formas: la rejilla de horas del ordenador y las tarjetas apiladas del móvil.
+- En la rejilla de horas cae a la altura de media mañana, que es donde la vista se sitúa al abrirla — arriba del todo no lo verías nunca.
+- Aquí sí sale en el móvil, al revés que en el mes: la tarjeta de un día ocupa el ancho entero y el dibujo cabe, mientras que una casilla de mes mide 47 px.
+- Agenda no tiene días vacíos —sólo lista los que tienen algo—, así que su dibujo va en la pantalla de «nada por aquí este mes».
+
+## 25 de septiembre de 2026 — Ilustraciones en los días sin nada
+
+- En la vista de mes, los días sin eventos pueden traer una ilustración de fondo, muy tenue y detrás del número. Sale en uno de cada tres, no en todos: la idea es encontrarte una, no mirar un collage.
+- El mismo día enseña siempre la misma, así que el mes no cambia de aspecto cada vez que lo abres.
+- Sólo aparece cuando la rejilla es ancha. En el móvil una casilla mide 47 px y el dibujo taparía la cifra del día, así que ahí no sale ninguna.
+- Y una segunda marca de fondo en la esquina de arriba, más tenue que la de abajo.
+
+## 25 de septiembre de 2026 — El tema propio: de cinco ilustraciones a catorce sitios
+
+- El tema propio enseña ahora ilustraciones en catorce pantallas vacías en vez de cinco: la compra, los hábitos, las notas, las listas, la salud, el seguimiento, los viajes, las recetas y lo compartido se suman a las que ya las tenían.
+- Cada sitio tiene su propio grupo de ilustraciones y ninguno coincide con el de al lado: por muchas que se vean a la vez, nunca sale la misma dos veces en la misma pantalla.
+- Y no cambian todas el mismo día. Cada sitio va por su cuenta, así que la pantalla se renueva poco a poco en vez de de golpe cada medianoche.
+- El círculo de tu perfil lleva ahora una marca detrás de la inicial. Detrás, no en lugar de: la inicial es lo que distingue un perfil de otro.
+
+## 25 de septiembre de 2026 — El tema propio se llena de ilustraciones
+
+- El tema propio deja de ser sólo colores: ahora trae ilustraciones. Una marca enorme y casi transparente de fondo, y una ilustración en cada pantalla que está vacía —la agenda sin eventos, las tareas sin nada pendiente, las fechas señaladas sin ninguna—.
+- Cada hueco tiene varias, no una: cuál sale lo decide el día. Cambia una vez cada veinticuatro horas y entre medias no se mueve, así que no parpadea mientras la miras.
+- Van veladas y con los bordes deshechos, para que parezcan parte del papel y no una pegatina encima. En oscuro el tratamiento es otro: lo que se aclara sobre pergamino se ensucia sobre la noche.
+- Pesan 788 KB las veintinueve —eran 19 MB— y sólo se descarga la del día. Con cualquier otro tema no se baja ni una.
+- Es un tema privado y personal; no cambia nada para quien use otro.
+
+## 25 de septiembre de 2026 — Las ventanas crecen con tu pantalla
+
+- En el ordenador, las ventanas de la aplicación ya no miden siempre lo mismo: se ajustan a la pantalla que tengas. En un monitor grande se ve casi el doble de ancho, y el changelog, la papelera o un viaje se leen sin ir arrastrando la barra.
+- Son 29 ventanas y van en dos tallas, porque no todas piden lo mismo: los formularios cortos —una tarea, una fecha, un turno— crecen menos, porque estirar cuatro campos a lo ancho de un monitor no ayuda; las listas y los informes crecen más.
+- La nota es la que más cambia: además de ancha, es alta. En un monitor grande se ven unas 36 líneas de golpe en vez de 8, y el área de escribir crece con la ventana sin bajar nunca de su tamaño mínimo.
+- En la nota, el título y los botones de «Guardar» y «Borrar» se quedan fijos: por larga que sea, siempre están a la vista. Y la cuadrícula se ensancha más que el texto, para que quepan más columnas.
+- Arreglado de paso: la nota del día y el formulario de tarea podían salirse de la pantalla por abajo con mucho texto, y dejar el botón de guardar fuera.
+- En el móvil todo sigue exactamente igual que antes.
+
+## 25 de septiembre de 2026 — Notas en cuadrícula, y bajarlas para Excel
+
+- Una nota puede ponerse en modo cuadrícula: filas y columnas que rellenas como en una hoja, para apuntar cantidades, medidas o precios mientras hablas con alguien.
+- Y una nota de texto que ya tengas se puede convertir en cuadrícula. Convertir no escribe nada hasta que guardas, y el aviso de «deshacer» no se va solo: si no cuadra, recuperas tu texto exactamente como estaba.
+- Botón para bajarla como CSV que el Excel en español abre de doble clic, en columnas y con los acentos bien. Sin librerías nuevas: la app sigue con seis dependencias.
+- La cuadrícula se guarda dentro del texto de la nota, así que el buscador la sigue encontrando por lo que escribiste en cualquier celda.
+
+## 16 de septiembre de 2026 — Nota rápida desde el móvil, y el bloc que el buscador no veía
+
+- Nuevo Atajo de iOS: desde el icono de la pantalla de inicio abres una nota en blanco con el cursor ya dentro y el título puesto con la fecha y la hora. Pensado para apuntar mientras hablas por teléfono, sin navegar por la app. La receta está en atajos-ios.md.
+- Y arreglado un fallo que salió al comprobarlo: el buscador NO encontraba las notas del bloc. Ni por el título ni por el texto. Sólo buscaba en las notas del día, que son otra cosa, y la etiqueta hacía fácil creer que estaba cubierto.
+- Ahora una nota se encuentra por cualquier palabra de su cuerpo, que en una nota de llamada es lo único que la distingue: el título es sólo una fecha y una hora.
+
+## 15 de septiembre de 2026 — Repeticiones que esquivan el fin de semana, y listas con enlaces
+
+- Un evento que se repite puede ahora evitar días de la semana. «Cada día 15, pero si cae en sábado o domingo, el más cercano fuera»: el formulario te lo dice con tus fechas de verdad —«el 15 de noviembre cae en domingo: se moverá al lunes 16»— para que lo compruebes al escribirlo y no dentro de dos meses.
+- Se mueve sin salir del mes, así que «el pago de septiembre» nunca acaba en octubre.
+- Y el aviso se mueve con él: el desplazamiento lo calculan igual la app y el servidor que manda las notificaciones, con una prueba que ata las dos caras.
+- En las listas de Personal ya se puede EDITAR el texto de una tarea. Hasta ahora, para corregir una errata había que borrarla y volver a escribirla.
+- Y las direcciones web que escribas dentro de una tarea se vuelven pulsables. Sólo http y https: cualquier otra cosa se queda como texto, a propósito.
+
+## 14 de septiembre de 2026 — Repaso a fondo: lo que no se veía, lo que no se podía pulsar y lo que no se leía
+
+- La nota de cualquier día pasado ya se puede abrir. El buscador te la encontraba con su fecha y al tocarla te enseñaba la de hoy: estaba escrita y no había forma de leerla.
+- Los botones de la lista de la compra se pueden pulsar de verdad: la casilla de marcar pasa de 26 a 44 píxeles, y el aspa de borrar de 16 a 44 — y ahora pregunta antes de borrar.
+- La lista se puede reordenar sin arrastrar, con un modo «Reordenar» y flechas.
+- Los mensajes de error se leen en los catorce temas. En los oscuros eran prácticamente invisibles.
+- Poner una comida ya no borra la marca de «fuera de casa» que hubieras puesto a mano ese día.
+- «Hoy» y «Calendario» ya dicen lo mismo: una jornada que un festivo anula desaparece de las dos, no sólo de una.
+- Los botones llevan a donde prometen: tocar una comida abre el Menú, tocar un cobro abre Suscripciones, y «N objetivos» abre Objetivos.
+- La campana de avisos está ya en las cinco pantallas, no sólo en el Calendario — que era donde los textos te decían que fueras a buscarla.
+
+## 14 de septiembre de 2026 — Turnos de trabajo: mete tu cuadrante en segundos
+
+- Nueva pestaña en Personal → Trabajo, para quien no tiene horario fijo. Defines tus turnos una vez —mañana, tarde, noche, con su color— y luego pintas el mes tocando días. Un cuadrante de dos semanas son unos quince toques en vez de catorce formularios.
+- Las horas de un turno se pueden dejar en blanco. «Sé que trabajo el jueves pero no a qué hora hasta la víspera» es un caso real: ese turno ocupa el día entero y concretas la hora cuando la sepas.
+- Los turnos de noche se entienden: 22:00 a 06:00 acaba al día siguiente, y el formulario te lo dice mientras lo escribes.
+- Si tu cuadrante rota —cuatro días y dos de fiesta, o un ciclo que se repite— defines el ciclo una vez y te genera los meses de golpe. Antes de crear nada te dice cuántos eventos va a poner y en qué fechas.
+- Y lo que toques a mano deja de ser de la rotación: volver a generar NO te lo pisa. Así puedes tener un ciclo de fondo y los cambios que te vayan metiendo encima, sin modos ni configuraciones.
+- Son eventos normales de tu calendario, no una lista aparte. O sea que tu cuadrante marca solo las comidas que haces fuera, y la compra deja de comprarte comida para días que no estás.
+
 ## 14 de septiembre de 2026 — Tu color, en todos los sitios donde se elige uno
 
 - Hasta ahora casi todos los selectores ofrecían sólo cinco colores fijos: sólo Grupos dejaba elegir el tuyo. Ahora se puede en los doce —viajes, fechas, suscripciones, objetivos, ahorro, hábitos, notas, métricas, pautas, calendarios suscritos, eventos y grupos—.
