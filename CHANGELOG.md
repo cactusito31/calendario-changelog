@@ -2,6 +2,14 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 28 de septiembre de 2026 — El tiempo, con color y explicado
+
+- Cada dato de la pantalla del tiempo lleva ahora debajo, en cristiano, qué significa: la presión dice «normal · tiempo estable», las rachas «golpes suaves», el aire «aceptable».
+- Y tocando cualquiera se abre un párrafo con la explicación entera: por qué la presión que baja trae lluvia, qué son las partículas PM2,5, por qué la racha importa más que el viento medio, o qué quiere decir un 80 % de probabilidad de lluvia.
+- El color ya no es adorno: la temperatura va del azul hielo al granate, y el UV, el aire y el viento usan el verde/ámbar/rojo de siempre. Las barras dicen de un vistazo si una cifra es mucho o poco.
+- Arriba del todo hay una franja de cielo animado que cambia con la hora y con el tiempo que haga: estrellas de noche, nubes que cruzan, lluvia o nieve cayendo, el fogonazo de una tormenta.
+- Los dibujos del tiempo se mueven despacio. Si tienes activado «reducir movimiento» en el sistema, el cielo se queda quieto pero NO desaparece: que sea de noche o que esté lloviendo es información, no decoración.
+
 ## 28 de septiembre de 2026 — Los dibujos del tiempo, propios
 
 - El sol, la nube, la lluvia y la tormenta ya no son emoji: son dibujos de trazo, iguales en el móvil, en la tableta y en el ordenador.
