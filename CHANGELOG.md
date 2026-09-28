@@ -2,6 +2,22 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 28 de septiembre de 2026 — Los dibujos del tiempo, propios
+
+- El sol, la nube, la lluvia y la tormenta ya no son emoji: son dibujos de trazo, iguales en el móvil, en la tableta y en el ordenador.
+- Un emoji lo pinta el sistema, así que el mismo cielo se veía distinto en cada aparato y con su propio color, que nunca era el del tema. Estos heredan la tinta de donde caigan y se ven bien también de noche.
+- Trece dibujos: despejado de día y de noche, nubes, niebla, llovizna, lluvia, nieve, tormenta, viento, termómetro y copo.
+- Los avisos de la AEMET también los usan: el aviso por lluvia enseña lluvia, el de viento enseña viento, y los que no se reconocen ya no enseñan un dibujo cualquiera.
+
+## 28 de septiembre de 2026 — Una pantalla entera para el tiempo
+
+- Tocando «El tiempo» en la pantalla de inicio se abre ahora una página completa, con mucho más de lo que cabía en el panel.
+- Ahora mismo: temperatura y sensación, viento con su rumbo y sus rachas, humedad, nubosidad, presión y lluvia caída.
+- Las próximas 24 horas, una a una, con su temperatura y su probabilidad de lluvia. Y los dieciséis días siguientes con máxima, mínima, probabilidad y litros.
+- El sol de hoy: a qué hora amanece, a qué hora anochece, cuántas horas de luz quedan y el índice UV máximo —con aviso si conviene protegerse.
+- Y el aire que respiras: calidad según el índice europeo, partículas PM2,5 y PM10, y el polen que haya suelto, por tipo.
+- No ocupa sitio en la barra de abajo: se llega tocando el panel, como a Finanzas se llega tocando un cobro.
+
 ## 28 de septiembre de 2026 — Iconos en los rótulos y en los avisos
 
 - Con el tema propio puesto, los rótulos de los paneles llevan ahora un icono pequeño: uno distinto en «El tiempo», «Fechas señaladas», «Hábitos» y «Seguimiento».
