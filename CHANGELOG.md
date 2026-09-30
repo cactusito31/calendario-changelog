@@ -2,6 +2,25 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 1 de octubre de 2026 — Varias cuentas, traspasos y el año de un vistazo
+
+- Puedes conectar más de un banco. Arriba del Resumen y de Movimientos aparece un selector para ver todas las cuentas juntas o una sola, y cada cuenta se nombra por su entidad y los cuatro últimos dígitos del IBAN.
+- «Lo que tienes ahora mismo» enseña, además del total, el saldo de cada cuenta.
+- Lo que pasas de una cuenta tuya a otra ya no cuenta como gasto ni como ingreso: se reconoce cuando sale y entra el mismo importe en dos cuentas tuyas con menos de tres días de diferencia, y se enseña aparte para que puedas comprobarlo.
+- Nueva vista de los últimos doce meses: lo que entró, lo que salió y la diferencia de cada mes, y cuánto gastas de media. Un mes del que no hay datos lo dice, en vez de pintarse a cero.
+- En Movimientos, «Solo sin clasificar» enseña los apuntes que ninguna regla reconoce todavía.
+- Los bancos que no identifican cada apunte, como Trade Republic, ya no se quedan sin movimientos.
+
+## 1 de octubre de 2026 — Finanzas, con los movimientos de tu banco
+
+- Finanzas ya no se apunta a mano: se llena con los movimientos de tu banco, y pasa a tener dos pestañas, «Resumen» y «Movimientos».
+- El Resumen cuenta lo que entró y lo que salió en el mes y la diferencia, cuánto ahorras de lo que entra, a qué ritmo vas, en qué se te va el dinero por categorías y qué cargos se repiten —incluidos los anuales y trimestrales, que son los que nadie recuerda haber contratado—.
+- Lo que no se sabe clasificar no se esconde en un cajón de «otros»: sale como «Sin clasificar», a la vista.
+- En Movimientos puedes ignorar un apunte que no quieres que cuente, como un traspaso entre tus propias cuentas, y recuperarlo desde «Ver ignorados».
+- Los movimientos se guardan cifrados con tu frase de paso y se ven igual en todos tus aparatos. Lo que decides en uno, como ignorar un apunte, llega a los demás.
+- Con la aplicación abierta se consulta al banco sola dos veces al día, aunque no estés en Finanzas. Y el botón «Traer del banco» pregunta en el momento.
+- Si una cuenta no se puede leer, la pantalla dice por qué: que el permiso del banco ha caducado y hay que volver a conectarlo, que el banco no contesta o que solo da unos meses de historial.
+
 ## 28 de septiembre de 2026 — El tiempo, con color y explicado
 
 - Cada dato de la pantalla del tiempo lleva ahora debajo, en cristiano, qué significa: la presión dice «normal · tiempo estable», las rachas «golpes suaves», el aire «aceptable».
