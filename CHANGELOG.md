@@ -13,6 +13,7 @@ Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a
 - Al elegir un mes que ya terminó, el Resumen te dice cómo cerró. Y cómo va tu año y a dónde llegas a tu ritmo.
 - El calendario enseña lo que gastaste cada día con el chip «Gasto», la nómina prevista y cuándo renovar el permiso del banco.
 - Exporta a CSV lo que estés viendo en Movimientos, listo para abrir en Excel.
+- Las gráficas de Análisis se leen mejor y responden al pasar el ratón o el dedo: dicen el valor de cada serie en cada día. La primera deja elegir el periodo: un mes, tres, seis, nueve o un año, comparado con el periodo anterior.
 - Para la renta: los donativos, el alquiler, la hipoteca, los seguros y el plan de pensiones del año, juntos y como orientación.
 
 ## 1 de octubre de 2026 — Analizar, planificar y decir tú qué es cada comercio
