@@ -13,6 +13,8 @@ Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a
 - Debajo de las pestañas puedes ocultar las cuentas que no quieras ver: todo Finanzas y el calendario se calculan sin ellas.
 - El calendario avisa de los cobros que se repiten —suscripciones, recibos— en el día que toca, con el chip «Cobros», y el Resumen enseña lo que se te cobrará en los próximos 30 días.
 - Si el banco lo manda, cada movimiento enseña el saldo que quedó después.
+- Se reconocen más comercios de verdad, también en catalán: «SUPERMERCAT», «FORN», «TABACS», McDonald's escrito con espacio, Burger King por su código de tienda, T-mobilitat y más.
+- El día 1, antes de que llegue nada del mes, ya no sale un «-100 %» contra el mes pasado: sin datos no hay comparación.
 
 ## 1 de octubre de 2026 — Varias cuentas, traspasos y el año de un vistazo
 
