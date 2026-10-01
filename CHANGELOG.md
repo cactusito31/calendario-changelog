@@ -2,6 +2,18 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 1 de octubre de 2026 — Categorías con icono, gráficas por categoría y cobros en el calendario
+
+- La tarjeta de Finanzas ya no empuja la página hacia abajo: lo que no cabe se desplaza dentro de ella.
+- Todos los importes llevan sus céntimos, también los de las cifras grandes del Resumen, y los porcentajes van con dos decimales.
+- Hay muchas más categorías, cada una con su emoji y su color: comida a domicilio, taxi, coche y parking, viajes, videojuegos, farmacia, deporte, belleza, ropa, electrónica, hogar, mascotas, educación, Bizum, inversión, préstamos y unas cuantas más. Si tu banco manda el código del tipo de comercio, se usa para clasificar lo que ninguna regla reconoce.
+- Los comercios se agrupan por marca: «MERCADONA 0451 MADRID» y «MERCADONA SA» son el mismo Mercadona. El Resumen te dice qué comercio se lleva más este mes.
+- En Movimientos, unas pastillas por categoría filtran la lista y abren su ficha: lo que llevas este mes, lo comparas con el mes pasado a la misma altura, la media y cada mes del año. Tocar una categoría en el Resumen te lleva ahí.
+- Nueva gráfica del gasto de cada mes partido por categorías. Toca un mes para verlo arriba.
+- Debajo de las pestañas puedes ocultar las cuentas que no quieras ver: todo Finanzas y el calendario se calculan sin ellas.
+- El calendario avisa de los cobros que se repiten —suscripciones, recibos— en el día que toca, con el chip «Cobros», y el Resumen enseña lo que se te cobrará en los próximos 30 días.
+- Si el banco lo manda, cada movimiento enseña el saldo que quedó después.
+
 ## 1 de octubre de 2026 — Varias cuentas, traspasos y el año de un vistazo
 
 - Puedes conectar más de un banco. Arriba del Resumen y de Movimientos aparece un selector para ver todas las cuentas juntas o una sola, y cada cuenta se nombra por su entidad y los cuatro últimos dígitos del IBAN.
