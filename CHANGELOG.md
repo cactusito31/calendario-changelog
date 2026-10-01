@@ -2,6 +2,20 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 2 de octubre de 2026 — Tu historial entero, lo que te deben y avisos que te importan
+
+- Plan se ordena en cinco apartados —Metas, Fijos, Compras, Papeles y Avisos— para que cada cosa se lea sola y nada estorbe.
+- Importa tu historial: descarga el extracto de la web de tu banco en Excel o CSV y súbelo en Plan › Papeles. Antes de guardar ves cuántos son nuevos y cuántos ya estaban, y lo repetido no entra dos veces. Los movimientos se guardan ahora tres años, no uno.
+- Tu colchón: cuántos meses aguantarías con lo que tienes, a tu gasto medio, y cuánto te falta para tres o seis.
+- ¿Y si…?: cancela un fijo, recorta una categoría o aparta algo cada mes, y mira cuánto ahorras al año y cuándo llegas a tu objetivo.
+- Te deben: en las suscripciones compartidas, quién no ha mandado su parte y de qué meses, con un mensaje listo para mandárselo.
+- Devoluciones y garantías: abre una compra y marca «La he devuelto» —te avisa si el dinero tarda más de un mes— o «Tiene garantía», con la foto del ticket. El calendario te recuerda un mes antes de que venza.
+- Lo que pagaste fuera: si tu banco manda la moneda original, Análisis junta lo gastado en cada moneda, las comisiones de cambio y te propone los viajes como evento.
+- Las gráficas se pueden ver como tabla.
+- Guarda el informe de un mes cerrado en PDF desde el Resumen.
+- Avisos de un cargo grande y de lo que te cobran hoy, si los activas en Plan › Avisos.
+- Arreglado: los desplegables se veían en blanco sobre blanco en modo oscuro.
+
 ## 1 de octubre de 2026 — El gasto de verdad: compartidos, devoluciones y cuánto puedes gastar hoy
 
 - Las suscripciones que compartes: en Plan, abre una con «Detalles» y di entre cuántas personas se paga y cómo, a partes iguales o a mano con el nombre de cada uno. Ves tu parte, lo que te deben de cada cobro y lo que te han devuelto del último.
