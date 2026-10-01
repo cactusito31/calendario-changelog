@@ -2,6 +2,19 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 1 de octubre de 2026 — El gasto de verdad: compartidos, devoluciones y cuánto puedes gastar hoy
+
+- Las suscripciones que compartes: en Plan, abre una con «Detalles» y di entre cuántas personas se paga y cómo, a partes iguales o a mano con el nombre de cada uno. Ves tu parte, lo que te deben de cada cobro y lo que te han devuelto del último.
+- Los Bizums que te devuelven la parte de una suscripción, la cena que pagaste por todos o la devolución de una tienda se descuentan del gasto y dejan de contar como ingresos. Cada uno sale en «Lo que te devolvieron», y si alguno no lo es, «No lo es» lo deja como estaba.
+- Hasta la nómina: el Resumen y el widget de Hoy te dicen cuánto puedes gastar al día hasta que cobres, con lo que tienes menos los cargos fijos que tocan antes.
+- Modo privado: el ojo de la cabecera de Finanzas tapa todas las cifras de dinero de la aplicación, para abrirla delante de gente.
+- Eventos: etiqueta movimientos —un viaje, una boda— desde su detalle o por fechas, y ve lo que costó de verdad por categorías.
+- En Análisis, compara dos periodos categoría a categoría y mira tu inflación: lo que te cuesta cada visita a cada comercio y si ha subido.
+- Al elegir un mes que ya terminó, el Resumen te dice cómo cerró. Y cómo va tu año y a dónde llegas a tu ritmo.
+- El calendario enseña lo que gastaste cada día con el chip «Gasto», la nómina prevista y cuándo renovar el permiso del banco.
+- Exporta a CSV lo que estés viendo en Movimientos, listo para abrir en Excel.
+- Para la renta: los donativos, el alquiler, la hipoteca, los seguros y el plan de pensiones del año, juntos y como orientación.
+
 ## 1 de octubre de 2026 — Analizar, planificar y decir tú qué es cada comercio
 
 - Finanzas tiene cuatro pestañas: Resumen, Movimientos, Análisis y Plan.
