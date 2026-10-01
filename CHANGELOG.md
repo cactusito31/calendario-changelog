@@ -2,6 +2,17 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 1 de octubre de 2026 — Analizar, planificar y decir tú qué es cada comercio
+
+- Finanzas tiene cuatro pestañas: Resumen, Movimientos, Análisis y Plan.
+- Movimientos tiene buscador —sin acentos ni mayúsculas, en el concepto, la marca y la categoría— y filtros por importe, fechas y cargos o abonos, que se combinan con las pastillas.
+- Toca un movimiento para verlo entero: lo que mandó el banco, por qué tiene esa categoría y los demás del mismo comercio. Y con «Esto es…» le dices tú qué es: se crea una regla tuya que se aplica a todos los iguales, los de antes y los que vengan. Tus reglas se ven y se borran en Plan.
+- Terracasa ya sale como bazar.
+- Análisis: lo que llevas gastado día a día contra el mes pasado y tu media, en rojo donde vas pasado; un mapa de calor de cada día; qué días de la semana y qué parte del mes se te va más; de dónde viene y a dónde va el dinero del mes; tu saldo en el tiempo con la previsión hasta fin de mes, y el gasto hormiga, lo que suman al año los cargos de menos de 5 €.
+- El Resumen avisa de lo que se sale de tu patrón: una categoría muy por encima de lo que sueles llevar a estas alturas, una suscripción que sube de precio, un cobro repetido el mismo día o un presupuesto al límite. Y te dice cómo va la semana.
+- Plan: presupuestos por categoría con aviso al 80 %, tus suscripciones y cargos fijos para marcar las que cancelarías y ver cuánto te ahorras al año, objetivos de ahorro con el neto real de cada mes y cuándo llegas a tu ritmo, y el resumen de la semana por notificación cada lunes.
+- Todo lo que decides en Plan va cifrado con tu frase de paso y llega a tus otros aparatos.
+
 ## 1 de octubre de 2026 — Categorías con icono, gráficas por categoría y cobros en el calendario
 
 - La tarjeta de Finanzas ya no empuja la página hacia abajo: lo que no cabe se desplaza dentro de ella.
