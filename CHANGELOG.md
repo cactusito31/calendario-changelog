@@ -2,6 +2,14 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 2 de octubre de 2026 — Finanzas para todos, con tus extractos
+
+- Ahora cualquiera puede llevar sus cuentas en Finanzas, sin conectar nada con su banco: en Cuenta enciendes «Llevar aquí mis movimientos», creas una cuenta en Plan › Papeles y subes el extracto que descargas de la web de tu banco en Excel o CSV. Se clasifica solo por categorías, te detecta los recibos que se repiten y te saca el resumen del mes.
+- Tus movimientos se guardan cifrados con una frase de paso que eliges tú, y el servidor los guarda sin poder leerlos.
+- Si no te interesa, déjalo apagado: Finanzas no te pedirá nada. Y apagarlo no borra nada, puedes volver a encenderlo cuando quieras.
+- Puedes tener varias cuentas y ponerles el nombre que quieras, y cambiárselo después sin perder ningún movimiento.
+- Arreglado: salía un botón para conectar el banco a gente que no podía usarlo. Te mandaba a identificarte en tu banco de verdad para luego decir que no había ninguna cuenta.
+
 ## 2 de octubre de 2026 — Una sola frase de paso, y empezar de cero
 
 - La frase de paso de Finanzas es ahora la misma en todos tus aparatos: si escribes una distinta de la que pusiste en el primero, te lo dice en vez de aceptarla. Antes cada aparato podía tener la suya y lo de uno no se abría en el otro.
