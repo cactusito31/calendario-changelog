@@ -2,6 +2,14 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 2 de octubre de 2026 — Una sola frase de paso, y empezar de cero
+
+- La frase de paso de Finanzas es ahora la misma en todos tus aparatos: si escribes una distinta de la que pusiste en el primero, te lo dice en vez de aceptarla. Antes cada aparato podía tener la suya y lo de uno no se abría en el otro.
+- «Empezar de cero»: si pusiste frases distintas o no recuerdas la tuya, desde el desbloqueo o Plan › Papeles se borran tus movimientos guardados y te deja poner otra. La conexión con el banco se queda; los movimientos se vuelven a traer del banco. Tus otros aparatos te pedirán la nueva.
+- Al volver de conectar un banco, sus cuentas se traen al momento, y si la conexión no se pudo terminar, te lo dice.
+- Arreglado: con dos cuentas, los movimientos salían como «otra cuenta», ocultar una cuenta no apartaba sus movimientos y la gráfica de saldo salía vacía.
+- Arreglado: importar un extracto no veía lo que ya había traído el banco y podía duplicarlo.
+
 ## 2 de octubre de 2026 — Tu historial entero, lo que te deben y avisos que te importan
 
 - Plan se ordena en cinco apartados —Metas, Fijos, Compras, Papeles y Avisos— para que cada cosa se lea sola y nada estorbe.
