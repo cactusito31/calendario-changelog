@@ -2,6 +2,16 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 6 de octubre de 2026 — Avisos con la app cerrada, vista de año y tus datos de vuelta
+
+- Los avisos de cobros fijos llegan también con la aplicación cerrada, y ahora puedes pedirlos el día antes, tres días antes o una semana antes (Plan › Avisos). Al servidor sólo le llega cuándo avisarte y un texto sin importes ni comercios.
+- Vista de año en el calendario: los doce meses de un vistazo, cada día más o menos lleno según lo que tienes. Toca un mes para abrirlo.
+- Recuperar desde una copia: carga en Cuenta › Tus datos el fichero que te bajaste con «Bajar todo» y vuelve lo que te falta o borraste después, sin tocar lo que tienes ahora.
+- Importar un calendario: carga un fichero .ics y sus eventos pasan a ser tuyos, en el grupo que elijas, sin duplicar lo que ya tenías.
+- Borrar mi cuenta, desde Cuenta › Tus datos, escribiendo tu correo para confirmar.
+- Una suscripción que sube de precio de golpe ya no desaparece de tus fijos: sale como subida, con el precio nuevo. Y dos cobros iguales con un mes entre ellos salen como «¿Suscripciones nuevas?».
+- Si el servidor no guarda algún movimiento, ahora te lo dice y por qué.
+
 ## 2 de octubre de 2026 — Finanzas para todos, con tus extractos
 
 - Ahora cualquiera puede llevar sus cuentas en Finanzas, sin conectar nada con su banco: en Cuenta enciendes «Llevar aquí mis movimientos», creas una cuenta en Plan › Papeles y subes el extracto que descargas de la web de tu banco en Excel o CSV. Se clasifica solo por categorías, te detecta los recibos que se repiten y te saca el resumen del mes.
