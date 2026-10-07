@@ -2,6 +2,13 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 8 de octubre de 2026 — La cabecera del calendario, ordenada en tres menús
+
+- En vez de un botón por cada grupo, persona y extra, la cabecera tiene tres: Grupos, Compartidos y Otros. Cada uno abre su lista para encender o apagar lo que quieras ver.
+- Compartidos va por persona: apagas todo lo de alguien de una vez. Otros reúne Cobros, Gasto, Fechas, Menú, Ciclo y los calendarios que sigues de fuera.
+- El botón dice cuántos se ven de cuántos hay, y cambia de color si hay algo apagado, para que no parezca que faltan eventos. Dentro tienes «Mostrar todo».
+- «Gestionar grupos» está ahora al final del menú Grupos.
+
 ## 8 de octubre de 2026 — Los avisos de tus inversiones suenan con la aplicación cerrada
 
 - Un aviso del tipo «avísame si baja un 10 %» sobre un fondo con índice te llega ahora aunque no tengas la aplicación abierta. Se estima con el índice que replica tu fondo, y el aviso lo dice.
