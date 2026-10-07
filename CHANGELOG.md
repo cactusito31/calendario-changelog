@@ -2,6 +2,19 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 8 de octubre de 2026 — El calendario, más cómodo de usar cada día
+
+- Al borrar un evento, una tarea, una nota, una fecha o algo de la compra sale abajo «Deshacer» durante unos segundos. Si se te pasa, sigue en la Papelera.
+- En el ordenador puedes mover un evento arrastrándolo en la vista Semana, y alargarlo tirando de su borde de abajo. Se ajusta a cuartos de hora y también se puede deshacer. Las series se siguen cambiando desde el evento.
+- En el móvil, desliza a los lados para pasar de mes, de semana o de año.
+- Botón «Duplicar» en cada evento: abre una copia lista para cambiarle la fecha, sin tocar el original.
+- Cada grupo puede tener sus recordatorios por defecto, y un evento nuevo empieza en el grupo que usaste la última vez.
+- Si un evento se pisa con otro que ya tienes, te lo dice antes de guardar. Es un aviso: se guarda igual.
+- El calendario recuerda la vista que elegiste y los grupos que apagaste.
+- Resumen de la mañana: a la hora que elijas, un aviso con lo que tienes ese día, y si quieres, el número de lo que te queda hoy en el icono de la aplicación. Se activa en Cuenta.
+- Atajos de teclado en el ordenador: N evento nuevo, T hoy, las flechas para pasar de periodo, M, S y A para las vistas y / para buscar.
+- Arreglado: una serie nueva con «Evitar estos días» se guardaba sin ellos, y el icono elegido al crear un grupo se perdía.
+
 ## 8 de octubre de 2026 — La cabecera del calendario, ordenada en tres menús
 
 - En vez de un botón por cada grupo, persona y extra, la cabecera tiene tres: Grupos, Compartidos y Otros. Cada uno abre su lista para encender o apagar lo que quieras ver.
