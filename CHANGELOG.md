@@ -2,6 +2,13 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 8 de octubre de 2026 — Los avisos de tus inversiones suenan con la aplicación cerrada
+
+- Un aviso del tipo «avísame si baja un 10 %» sobre un fondo con índice te llega ahora aunque no tengas la aplicación abierta. Se estima con el índice que replica tu fondo, y el aviso lo dice.
+- Cada aviso te dice si suena con la aplicación cerrada o solo al abrirla. Los de precio objetivo («avísame si llega a 25 €») siguen sonando al abrirla, con tus precios reales: una meta para retirar dinero no debería saltar con una estimación.
+- Un aviso no se repite: cuando suena se queda marcado como «ya saltó», también en tus otros aparatos, hasta que lo vuelvas a armar.
+- El servidor solo sabe qué índice vigilas y desde qué precio público; no qué fondo tienes ni cuánto vale.
+
 ## 7 de octubre de 2026 — Tus fondos se mueven solos entre precios
 
 - Inversiones: elige en cada fondo el índice que replica (MSCI World, S&P 500, Emergentes o Bitcoin) y su valor se estima a diario con lo que se ha movido ese índice desde el último precio que pusiste, con el cambio euro-dólar corregido. Va marcado como estimado y te avisa si lleva más de un mes sin un precio real.
