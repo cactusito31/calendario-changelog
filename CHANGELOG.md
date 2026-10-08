@@ -2,6 +2,15 @@
 
 Lo que va cambiando en la aplicación, contado en cristiano y de lo más nuevo a lo más viejo. Si algo no te cuadra o echas algo en falta, dímelo.
 
+## 8 de octubre de 2026 — Solo esta repetición, y apuntar en una línea
+
+- En un evento que se repite puedes elegir «Solo esta»: cambias o borras solo ese día y las demás repeticiones se quedan como estaban. Por defecto sigue siendo toda la serie.
+- Arrastrar una repetición en la vista Semana la mueve solo a ella.
+- Escribe «cena con Marta mañana 21h» en el título de un evento nuevo y te propone el día y la hora; tócalo para aplicarlo. Desde Hoy, «Añadir al calendario» abre el evento ya relleno.
+- Los recordatorios traen un botón «En 10 min» para que te vuelvan a avisar. En Android y en el ordenador; el iPhone no enseña botones en las notificaciones de una web.
+- Al añadir a la compra te sugiere lo que sueles comprar, con su pasillo de la última vez.
+- «Deshacer» también al vaciar los comprados, en tu lista y en la compartida, y al borrar una receta. Las recetas borradas están ahora en la Papelera.
+
 ## 8 de octubre de 2026 — El calendario, más cómodo de usar cada día
 
 - Al borrar un evento, una tarea, una nota, una fecha o algo de la compra sale abajo «Deshacer» durante unos segundos. Si se te pasa, sigue en la Papelera.
